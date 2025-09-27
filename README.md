@@ -20,13 +20,6 @@ title="Entre em contato por e-mail"
 src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"
 />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/SEU-USUARIO-GITHUB%3Ftab%3Dfollowers">
-<img
-alt="Seguidores"
-title="Me siga no GitHub"
-src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO-GITHUB%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dgithub%26label%3DSeguidores%26logoColor%3Dwhite"
-/>
-</a>
 </p>
 
 🤖 Linguagens e Tecnologias
@@ -41,7 +34,6 @@ src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/gith
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg
 <img
 align="left"
 alt="Bash"
