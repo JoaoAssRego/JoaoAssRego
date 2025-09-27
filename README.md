@@ -5,23 +5,6 @@ Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UF
 
 Atualmente, faço parte do projeto MonitoraUFF, onde desenvolvo scripts em Python e Bash para automatizar configurações e gerencio os dados gerados pelas câmeras com SQL.
 
-<p align="left">
-<a href="www.linkedin.com/in/joão-pedro-assunção-12339a303" target="_blank">
-<img
-alt="LinkedIn"
-title="Conecte-se comigo no LinkedIn"
-src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite""
-/>
-</a>
-<a href="mailto:joaopedroassuncaorego@gmail.com">
-<img
-alt="Email"
-title="Entre em contato por e-mail"
-src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"
-/>
-</a>
-</p>
-
 🤖 Linguagens e Tecnologias
 <div style="display: inline_block">
 
