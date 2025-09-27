@@ -1,5 +1,6 @@
-👋 Olá, eu sou o João Pedro de Assunção Rego
-Estudante | DevOps & Dados
+# 👩🏻‍💻 João Assunção
+
+**`Estudante | DevOps & Dados`**
 
 Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco nas áreas de DevOps e Dados. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
 
