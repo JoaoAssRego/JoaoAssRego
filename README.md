@@ -1,4 +1,4 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e9006d54-5dcc-4966-8fe5-0868448d43c6" />
+# <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/e9006d54-5dcc-4966-8fe5-0868448d43c6" />
 João Assunção
 
 **`Estudante | DevOps & Dados`**
