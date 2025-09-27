@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
 <br/>
 <br/>
 
-📊 Estatísticas
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
