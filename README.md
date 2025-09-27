@@ -6,7 +6,7 @@ Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UF
 Atualmente, faço parte do projeto MonitoraUFF, onde desenvolvo scripts em Python e Bash para automatizar configurações e gerencio os dados gerados pelas câmeras com SQL.
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/" target="_blank">
+<a href="www.linkedin.com/in/joão-pedro-assunção-12339a303" target="_blank">
 <img
 alt="LinkedIn"
 title="Conecte-se comigo no LinkedIn"
