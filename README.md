@@ -5,7 +5,9 @@ Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UF
 
 Atualmente, faço parte do projeto MonitoraUFF, onde desenvolvo scripts em Python e Bash para automatizar configurações e gerencio os dados gerados pelas câmeras com SQL.
 
-🤖 Linguagens e Tecnologias
+---
+
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block">
 
 
