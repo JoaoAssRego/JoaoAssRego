@@ -33,31 +33,30 @@ src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/gith
 <div style="display: inline_block">
 
 
-
-
-<img
-align="left"
-alt="Python"
-title="Python"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg
 <img
 align="left"
 alt="Bash"
 title="Bash"
-width="40px"
+width="30px"
 style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/bash/bash-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
-<img
-align="left"
-alt="SQL"
-title="SQL"
-width="40px"
-style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/postgresql/postgresql-plain-wordmark.svg"
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
 align="left"
@@ -75,19 +74,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 
 
-📊 Estatísticas do GitHub
+
+### 📊 Estatísticas
+
 <p>
-<img
-align="left"
-alt="Estatísticas do GitHub"
-height="180em"
-style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU-USUARIO-GITHUB%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
-/>
-<img
-align="left"
-alt="Linguagens mais usadas"
-height="180em"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-GITHUB%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DLinguagens%26langs_count%3D6"
-/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
