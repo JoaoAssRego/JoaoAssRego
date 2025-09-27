@@ -36,8 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
