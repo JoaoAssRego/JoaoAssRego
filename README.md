@@ -1,8 +1,8 @@
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e9006d54-5dcc-4966-8fe5-0868448d43c6" /> João Assunção
 
-**`Estudante | DevOps & Dados`**
+**`Estudante | Eng Software & Dados`**
 
-Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco nas áreas de DevOps e Dados. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
+Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco nas áreas de Engenharia de Software e Dados. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
 
 Atualmente, faço parte do projeto MonitoraUFF, onde desenvolvo scripts em Python e Bash para automatizar configurações e gerencio os dados gerados pelas câmeras com SQL.
 
