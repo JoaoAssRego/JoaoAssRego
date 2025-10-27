@@ -42,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
     title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/tree/v2.17.0/icons/html5/html5-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-origina
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/tree/v2.17.0/icons/css3/css3-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" 
 />
 
 <br/>
