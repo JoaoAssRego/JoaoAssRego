@@ -53,7 +53,7 @@ Atualmente, faço parte do projeto MonitoraUFF, responsável por todas as câmer
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssRego&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssRego&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&include_all_commits=true&count_private=true"
   />
 </p>
 <br clear="left"/>
