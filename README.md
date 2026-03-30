@@ -2,7 +2,7 @@
 
 **`Estudante | Eng DevOps`**
 
-Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco na área de Engenharia de Software. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
+Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco na área de Engenharia de DevOps. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
 
 Atualmente, faço parte do projeto MonitoraUFF, responsável por todas as câmeras de vigilância dos campis UFF, onde desenvolvo scripts em Python e Bash para automatizar configurações e gerencio os dados gerados pelas câmeras com SQL.
 
