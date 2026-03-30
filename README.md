@@ -1,6 +1,6 @@
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e9006d54-5dcc-4966-8fe5-0868448d43c6" /> João Assunção
 
-**`Estudante | Eng Software`**
+**`Estudante | Eng DevOps`**
 
 Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e apaixonado por tecnologia, com foco na área de Engenharia de Software. Sou movido por desafios e por projetos ambiciosos que a cada dia me transformam em um profissional melhor em conhecimento e experiência.
 
