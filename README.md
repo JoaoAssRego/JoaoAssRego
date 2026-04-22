@@ -1,7 +1,5 @@
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e9006d54-5dcc-4966-8fe5-0868448d43c6" /> João Assunção
 
-# Olá! Sou o João Pedro 👋
-
 **`Estudante de Sistemas de Informação | Full Stack & Engenharia de Software`**
 
 Sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e técnico em informática pelo IFRJ. Atualmente, busco aprimorar minhas habilidades em desenvolvimento Full Stack e Engenharia de Software, com foco em arquiteturas modernas e escaláveis.
