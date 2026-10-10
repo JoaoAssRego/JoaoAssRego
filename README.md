@@ -2,12 +2,6 @@
 
 **`Estudante de Sistemas de Informação | Full Stack & Engenharia de Software`**
 
-<h1 align="center">Olá, eu sou o João 👋</h1>
-
-<p align="center">
-  Estudante de Sistemas de Informação na <b>UFF</b> · Técnico em Informática pelo <b>IFRJ</b> · Estagiário de Desenvolvimento na <b>Infotec Brasil</b>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
@@ -24,7 +18,7 @@ Sou estudante de **Sistemas de Informação na Universidade Federal Fluminense (
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Projeto Full Stack** *(em desenvolvimento)* | Aplicação completa com front-end e API própria | Node.js · TypeScript · React |
+| **MyWedding** *(em desenvolvimento)* | Aplicação completa com front-end e API própria para Organização de Financeiro para Noivos | Node.js · TypeScript · React |
 | **Vigia** | Dashboard de observabilidade de infraestrutura e gestão de insumos | Python · Streamlit |
 
 ---
@@ -41,32 +35,7 @@ Sou estudante de **Sistemas de Informação na Universidade Federal Fluminense (
   <img alt="Java" title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
 
-<p align="left">
-  <img alt="MySQL" title="MySQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
-  <img alt="SQL Server" title="SQL Server" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;
-  <img alt="Docker" title="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
-  <img alt="Linux" title="Linux" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
-  <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="Azure DevOps" title="Azure DevOps" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-</p>
 
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoAssRego&show_icons=true&theme=transparent&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssRego&layout=compact&theme=transparent&locale=pt-br" />
-</p>
-
----
-
-### 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 <br/>
 <br/>
 
@@ -87,3 +56,10 @@ Sou estudante de **Sistemas de Informação na Universidade Federal Fluminense (
   />
 </p>
 <br clear="left"/>
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-assun%C3%A7%C3%A3o-12339a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaopedroassuncaorego@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
