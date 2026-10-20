@@ -18,7 +18,7 @@ Sou estudante de **Sistemas de Informação na Universidade Federal Fluminense (
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **MyWedding** *(em desenvolvimento)* | Aplicação completa com front-end e API própria para Organização de Financeiro para Noivos | Node.js · TypeScript · React |
+| **MyWedding** *(em desenvolvimento)* | Aplicação completa com front-end e API própria para Organização de Financeiro para Noivos | Ruby · TypeScript · React |
 | **Vigia** | Dashboard de observabilidade de infraestrutura e gestão de insumos | Python · Streamlit |
 
 ---
