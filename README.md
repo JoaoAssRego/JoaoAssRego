@@ -31,8 +31,7 @@ Sou estudante de **Sistemas de Informação na Universidade Federal Fluminense (
   <img alt="Node.js" title="Node.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img alt="React" title="React" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
   <img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-  <img alt="FastAPI" title="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />&nbsp;
-  <img alt="Java" title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Ruby" title="Ruby" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
 </p>
 
 
